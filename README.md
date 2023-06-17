@@ -1,1 +1,2 @@
-# libft
+# Libft
+Este é o primeiro projeto da trilha de um Cadete da 42 e consiste em uma biblioteca pessoal, recriando funções da biblioteca padrão C, além de um arquivo Makefile para otimizar a compilação do projeto. Durante a trilha da 42, os cadetes não tem permissão para usar algumas bibliotecas, então usamos as funções da Libft e as nossas próprias funções à medida que avançamos na trilha de desenvolvimento. 
